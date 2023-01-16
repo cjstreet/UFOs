@@ -10,14 +10,12 @@ Create a webpage and dynamic table to provide a more in-depth analysis of UFO si
 2. Add style with CSS
 3. Use JavaScript and BootStrap to build interactive filters. 
 
-
+![png](images/shape.png)
 ## Resources
 - Data Source: data.js
 - Software: HTML, CSS, JavaScript, BootStrap, Visual Studio Code, 1.73.0
 
 ## Summary
-
-
 
 There is a title, and there are multiple paragraphs. (2 pt)
 Each paragraph has a heading. (2 pt)
