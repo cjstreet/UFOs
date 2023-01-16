@@ -20,6 +20,7 @@ Create a webpage and dynamic table to provide a more in-depth analysis of UFO si
 ### Results:
 ![png](images/web_page.png)
 <a href = "index.html">UFO Sightings</a>
+<a href ="https://github.com/cjstreet/UFOs/blob/main/index.html">UFO Sightings</a>
 The purpose is well defined (2 pt)
 
 ![png](images/date.png)
