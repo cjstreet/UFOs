@@ -2,9 +2,22 @@
 JavaScript and Bootstrap
 
 
+## Project Overview
 
-Structure, Organization, and Formatting (8 points)
-The written analysis has the following structure, organization, and formatting:
+Create a webpage and dynamic table to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. Users will be able to filter data for date, city, state, country, and shape. 
+
+1. Create webpage with HTML. 
+2. Add style with CSS
+3. Use JavaScript and BootStrap to build interactive filters. 
+
+
+## Resources
+- Data Source: data.js
+- Software: HTML, CSS, JavaScript, BootStrap, Visual Studio Code, 1.73.0
+
+## Summary
+
+
 
 There is a title, and there are multiple paragraphs. (2 pt)
 Each paragraph has a heading. (2 pt)
