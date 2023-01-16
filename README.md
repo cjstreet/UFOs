@@ -17,10 +17,11 @@ Create a webpage and dynamic table to provide a more in-depth analysis of UFO si
 
 ## Summary/Analysis
 
-![png](images/web_page.png)
-
-The purpose is well defined (2 pt)
 ### Results:
+![png](images/web_page.png)
+<a href = "index.html">UFO Sightings</a>
+The purpose is well defined (2 pt)
+
 ![png](images/date.png)
 ![png](images/shape.png)
 ![png](images/state_shape.png)
