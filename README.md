@@ -28,7 +28,6 @@ The below image shows the result when a shape is entered.
 The user can enter a value for one or all filters. The following information in filtered by state and shape.
 ![png](images/state_shape.png)
 
-Summary:
 ### Issues:
 Currently, the filtering fields are case sensitive.The code needs to be updated to allow for uppercase and lowercase values. Another issue of this site is it's hard to get a good overview of the entire data set. For example, which states are present which are not? 
 - 
